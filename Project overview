@@ -1,0 +1,48 @@
+Project Overview
+
+Data Collection & Integration:
+
+Collected sales data from multiple sources including point-of-sale (POS) systems, online orders, and customer feedback databases.
+Integrated data from various sources into a central SQL database to ensure consistency and accuracy.
+
+Database Management:
+
+Designed and maintained the SQL database to store and manage large volumes of sales data.
+Created and optimized SQL queries to extract relevant data for analysis.
+
+Data Cleaning & Transformation:
+
+Performed data cleaning and transformation tasks using SQL to ensure data quality.
+Developed ETL (Extract, Transform, Load) processes to streamline data flow from raw sources to the analytical dashboard.
+
+Data Analysis:
+
+Conducted in-depth data analysis to identify sales trends, seasonal patterns, and customer preferences.
+Utilized SQL for complex data manipulations and calculations to support analysis needs.
+
+Visualization & Reporting:
+
+Created interactive and dynamic dashboards in Power BI to visualize key performance indicators (KPIs) such as total sales, sales by pizza type, sales by location, and customer demographics.
+Implemented features like drill-downs, filters, and slicers to enable users to explore data at various granularities.
+
+Insights & Recommendations:
+
+Provided actionable insights based on data analysis, such as identifying best-selling pizza varieties, peak sales times, and underperforming locations.
+Recommended strategies for inventory optimization and targeted marketing campaigns to boost sales.
+
+Collaboration & Presentation:
+
+Worked closely with cross-functional teams including marketing, operations, and finance to understand their data needs and provide tailored solutions.
+Presented findings and dashboard demonstrations to stakeholders, explaining complex data insights in an accessible manner.
+
+Tools & Technologies:
+
+Power BI: For creating interactive dashboards and visualizations.
+SQL: For database management, data extraction, and complex queries.
+Excel: For initial data exploration.
+
+Impact:
+
+Improved sales tracking and reporting accuracy, leading to more informed business decisions.
+Enhanced inventory management by identifying and addressing slow-moving products.
+Increased customer satisfaction by tailoring marketing efforts based on data-driven insights.
